@@ -1,0 +1,7 @@
+pyhrv
+biosppy
+numpy
+scipy
+matplotlib
+nolds
+spectrum
